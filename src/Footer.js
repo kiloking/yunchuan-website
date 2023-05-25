@@ -4,7 +4,7 @@ import Modal from './Components/Modal';
 import taiwan_districts from './Components/taiwan_districts.json'
 
 function Footer() {
-  const [msgMailTitle,setMsgMailTitle] = useState('威均川玥網站的表單')
+  const [msgMailTitle,setMsgMailTitle] = useState('永豐泰雲川網站的表單')
   const [mailSent, setmailSent] = useState(false);
   const [error, setError] = useState(null);
   const [isOpen, setIsOpen] = useState(false);

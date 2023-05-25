@@ -24,7 +24,7 @@ function Section05() {
             clickable: true,
           }} 
           modules={[Pagination,Autoplay]}
-          autoplay={{delay:1800}}
+          autoplay={{delay:2000}}
           centeredSlides={true}
           className='w-full'
         >
