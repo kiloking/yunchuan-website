@@ -1,5 +1,5 @@
 <?php
-	$sendTo = "maizizi@gmail.com,harvest24691172@gmail.com";//收件者
+	$sendTo = "tune3931@ms15.hinet.net,tune3931@ms15.hinet.net,harvest24691172@gmail.com";//收件者
 	$subject = $_POST['msgMailTitle'];  //主旨
 	$namess = $_POST['name'] ;
 	$tel = $_POST['tel'];
