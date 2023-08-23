@@ -10,6 +10,8 @@ import Section04 from "./Section04";
 import Section05 from "./Section05";
 import Section06 from "./Section06";
 import Section07 from "./Section07";
+import Section06_2 from "./Section06_2";
+import Section06_3 from "./Section06_3";
 import Footer from "./Footer";
 function App() {
   useEffect(() => {
@@ -29,6 +31,8 @@ function App() {
       <Section04 />
       <Section05 />
       <Section06 />
+      <Section06_2 />
+      <Section06_3 />
       <Section07 />
       <Footer />
     </div>
