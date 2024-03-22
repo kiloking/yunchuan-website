@@ -8,7 +8,6 @@ function Section07() {
   const imgs =[
     {image:"section07_p01.png"},
     {image:"section07_p02.png"},
-    {image:"section07_p03.png"},
   ]
   return (
     <div 
